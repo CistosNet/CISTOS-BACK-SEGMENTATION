@@ -1,0 +1,13 @@
+=== RESUMO FINAL ===
+Fold 1: mAP50=0.9741, Precision=0.9413, Recall=0.9156
+Fold 2: mAP50=0.9845, Precision=0.9590, Recall=0.9369
+Fold 3: mAP50=0.9829, Precision=0.9527, Recall=0.9187
+Fold 4: mAP50=0.9816, Precision=0.9614, Recall=0.8988
+Fold 5: mAP50=0.9797, Precision=0.9450, Recall=0.9312
+
+=== MELHOR MODELO ===
+Fold 2:
+mAP50: 0.9845
+Precision: 0.9590
+Recall: 0.9369
+Caminho: fold_2\train\weights\best.pt

@@ -1,1 +1,10 @@
 venv/
+dataset_all/
+Dataset/train
+Dataset/val
+fold_1/
+fold_5/
+fold_4/
+fold_3/
+fold_2/images/
+fold_2/labels/
